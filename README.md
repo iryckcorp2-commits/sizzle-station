@@ -17,8 +17,9 @@ desktop browser from static files, with keyboard and mouse.
 # Play it: open game/index.html in a desktop browser (Chrome), or serve the folder:
 python3 -m http.server --directory game 8080
 # Self-test (Node 22): verifies the files, the offline rule, and a deterministic
-# scripted shift, then writes out/report.json and out/manifest.json:
-node main.ts
+# scripted shift, then hands the game in (copies game/ + screenshots/ and
+# writes dossier.json via the kit library) to out/:
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 ## How to play
@@ -46,7 +47,7 @@ Real renders of the game's own code (staged with `?shot=1..4`):
 
 ## Layout
 
-- `main.ts` — Node 22 entry program: offline + determinism self-test, writes `out/`
+- `main.ts` — Node 22 entry program: offline + determinism self-test, hands the game in to `$MAKEFUN_OUTPUT_DIR` (or `/output`) with `dossier.json`
 - `game/index.html` — the playable game (opens in desktop Chrome)
 - `game/src/` — the game source: config, seeded RNG, pure world logic,
   synthesised audio, input, canvas renderer, screenshot staging, main loop
