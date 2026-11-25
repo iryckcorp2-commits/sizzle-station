@@ -1,0 +1,44 @@
+{
+  "game": "Sizzle Station",
+  "bounty": "best-cooking-game-20261125-0137",
+  "seed": 20261125,
+  "checks": {
+    "files": "pass",
+    "offline": "pass",
+    "deterministic": "pass"
+  },
+  "shift": {
+    "seed": 20261125,
+    "phase": "playing",
+    "score": 3157,
+    "coins": 1555,
+    "served": 15,
+    "missed": 0,
+    "bestCombo": 15,
+    "plate": [],
+    "ordersLeft": 0,
+    "actions": 70
+  },
+  "screenshots": [
+    {
+      "path": "screenshots/1-kitchen.jpg",
+      "bytes": 128674,
+      "sha256": "5fcb1a49be3763a996f7e3fec41319981ff8c42762ccd23500b1c4596a69a954"
+    },
+    {
+      "path": "screenshots/2-ingredients.jpg",
+      "bytes": 124519,
+      "sha256": "779b77e12ed62aa13d0cd52a3dcb217845849b2fc4247449d0f7e925b20682a3"
+    },
+    {
+      "path": "screenshots/3-assembly.jpg",
+      "bytes": 130355,
+      "sha256": "e19fc009bdc012d5b1d44e87e86ed5a3fe18d3a1ed89184ad7e1dd93016bd1e7"
+    },
+    {
+      "path": "screenshots/4-serve.jpg",
+      "bytes": 127206,
+      "sha256": "cf2ad924812e1b36b45f2f7464113d95ca905f5da33ebceb73e4012ae4b786d7"
+    }
+  ]
+}

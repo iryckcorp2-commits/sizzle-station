@@ -1,0 +1,62 @@
+[
+  {
+    "path": "game/index.html",
+    "bytes": 1479,
+    "sha256": "b137a48aeaa5a1bd19c806cee4724c49725de2d511bdbf98e8f1fd91423a5424"
+  },
+  {
+    "path": "game/src/config.js",
+    "bytes": 2626,
+    "sha256": "eb3712ff45638b183ed63a1cdeb65aaeaef98b654d9ea97cdf8d04eb8726ad7c"
+  },
+  {
+    "path": "game/src/random.js",
+    "bytes": 614,
+    "sha256": "104f59a37c910ab1b38133ad8059f990b284f169e62c10510341a0b322019feb"
+  },
+  {
+    "path": "game/src/world.js",
+    "bytes": 10827,
+    "sha256": "86cbc7081570666ed69bc1908377f89a6c6a0aa9024d9934d9be05cba3f2a301"
+  },
+  {
+    "path": "game/src/audio.js",
+    "bytes": 3562,
+    "sha256": "03d809be8214e8f9e126ebc55cc093cace3b5e1130082b32f8c4f9a4d51891ab"
+  },
+  {
+    "path": "game/src/input.js",
+    "bytes": 1649,
+    "sha256": "9ef0ba78182d227944a2ed2881c328a7b9fdaeb165f45e2d9ac34cee46922d43"
+  },
+  {
+    "path": "game/src/render.js",
+    "bytes": 20000,
+    "sha256": "1c5a13fb2a924ac1ccc10a4e7c4d5b905be0c22e5e472a120ddd168eb4ce1115"
+  },
+  {
+    "path": "game/src/shots.js",
+    "bytes": 3632,
+    "sha256": "edfb09a48f13318c50b3a2880e093fbc95d11fca54eb68133b767eaa903421a4"
+  },
+  {
+    "path": "game/src/main.js",
+    "bytes": 3555,
+    "sha256": "11ebc9b4f168ce0dec11001ce6ec81dffb528fb521a2d858df74cea364b8ab3f"
+  },
+  {
+    "path": "vendor/makefun-game.ts",
+    "bytes": 56282,
+    "sha256": "dc67187521b24025ff952f8c231485a6eb92d6d71d29edd2a08154ffb4376129"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1100,
+    "sha256": "5293df63e955d0c73d9a572b61a6d97fcfb02cd83911850173a4cf8a5ca0842f"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3298,
+    "sha256": "80b75bb220905fe1c0880bcfe5937d5a9ae94939c4be4a56a18dff247b87a8af"
+  }
+]

@@ -1,0 +1,7 @@
+Build and submit the make.fun cooking game bounty "Make the best cooking game" ($250, deadline Wed 25 Nov 2026 20:37 WIB).
+
+Build a complete original cooking game that runs offline in a desktop browser from static files, played with keyboard + mouse. Screenshots must show: kitchen + order board, ingredients on the table, one dish being assembled, timer, and a ready-to-serve plate. Original idea, art, sound and name — do not copy a commercial game.
+
+Deliverables: NEW public GitHub repo in iryckcorp2-commits (created AFTER the bounty opened), OSI-approved license, main.ts (Node 22) in root, vendor/makefun-game.ts copied from the kit unmodified, game/ (index.html that opens and is playable in Chrome desktop + all files it loads), 3-4 screenshots in screenshots/ (real renders from the game's own code), agent session transcript that built it, README + About repo correct (3 live make.fun badges, make.fun website, makefun topic).
+
+Account: MUSE-8's OWN make.fun account @eager-lynx-71-2951 + own wallet BYqE5YbqYr7QZ9eJajEDswA8zF5wjBAWjgw8n4EGxfst. Bounty link: https://make.fun/bounty/best-cooking-game-20261125-0137
